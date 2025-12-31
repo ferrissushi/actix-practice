@@ -1,0 +1,27 @@
+[package]
+name = "actix-practice"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+actix = "0.13.5"
+actix-broker = "0.4"
+actix-codec = "0.5"
+actix-cors = "0.7"
+actix-files = "0.6"
+actix-http = "3.11"
+actix-identity = "0.9"
+actix-multipart = "0.7"
+actix-protobuf = "0.11"
+actix-session = "0.11"
+actix-test = "0.1"
+actix-tls = "3.4"
+actix-utils = "3"
+actix-web = "4.11"
+actix-web-actors = "4.3.1"
+actix-web-lab = "0.24"
+actix-ws = "0.3"
+awc = "3.7"
+
+log = "0.4"
+env_logger = "0.11.8"
